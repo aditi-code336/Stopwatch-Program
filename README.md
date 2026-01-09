@@ -1,4 +1,4 @@
-# Command-Line Stopwatch ⏱️
+# Command-Line Stopwatch
 
 ## Overview
 This project is a Python-based command-line stopwatch application that allows users to start, stop, reset, and monitor elapsed time in real time. It demonstrates object-oriented programming and basic event-driven control using standard Python libraries.
